@@ -1,4 +1,6 @@
-# Protoptying Slice
+# Prototyping Slice
+
+THT Array/All.
 
 BREAD slice for creating new BREAD slices.
 
